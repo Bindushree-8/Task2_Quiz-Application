@@ -1,0 +1,20 @@
+
+# Format: category|question|option1|option2|option3|option4|correct_option_number|-
+
+C|Which language is known as the mother of many modern programming languages?|Python|C|Java|HTML|2|-
+C|Which function is used to display output in C?|scanf()|printf()|main()|gets()|2|-
+C|Which symbol ends a statement in C?|:|,|;|.|3|-
+C|Which header file is required for printf()?|stdlib.h|math.h|stdio.h|string.h|3|-
+C|Which loop executes at least once?|for|while|do-while|nested loop|3|-
+
+Python|Which keyword defines a function in Python?|function|def|fun|define|2|-
+Python|Which data type stores True or False?|int|float|bool|string|3|-
+Python|Which symbol is used for comments in Python?|//|<!--|#|**|3|-
+Python|Which function displays output in Python?|echo()|print()|display()|write()|2|-
+Python|Which collection stores key-value pairs?|List|Tuple|Set|Dictionary|4|-
+
+Computer Basics|What does CPU stand for?|Central Processing Unit|Computer Personal Unit|Central Program Utility|Control Processing User|1|-
+Computer Basics|Which device is used to input text?|Monitor|Keyboard|Printer|Speaker|2|-
+Computer Basics|What is the full form of RAM?|Read Access Memory|Random Access Memory|Run Access Module|Rapid Action Memory|2|-
+Computer Basics|Which of these is an operating system?|Google|Windows|Intel|HTML|2|-
+Computer Basics|Which number system uses only 0 and 1?|Decimal|Octal|Binary|Hexadecimal|3|-
